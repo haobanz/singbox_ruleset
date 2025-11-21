@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vk-cdn.net",
+        "vk-portal.net",
+        "mvk.com",
+        "vk.com",
+        "userapi.com",
+        "vk.cc",
+        "vk-cdn.me"
+      ]
+    }
+  ],
+  "version": 2
+}
